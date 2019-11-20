@@ -1,3 +1,19 @@
+/*
+.bg {
+  /* The image used 
+  background-image: url("bg.jpeg");
+
+  /* Full height 
+   max-width:100%;
+   height:auto;
+
+  /* Center and scale the image nicely 
+  /* background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+*/
+
 /* Absolute Center CSS Spinner */
 .loading {
   position: fixed;
@@ -11,6 +27,7 @@
   bottom: 0;
   right: 0;
 }
+
 
 /* Transparent Overlay */
 .loading:before {
